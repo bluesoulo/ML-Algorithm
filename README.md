@@ -1,2 +1,2 @@
 # ML-Algorithm
-I try writing my code in ML's lesson.
+I try programing my code in ML's lesson.
